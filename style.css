@@ -1,0 +1,9 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;  /* optional: prevents scrollbars */
+  background: none;
+}
+canvas {
+  display: block;    /* removes inline-block space below canvas */
+}
